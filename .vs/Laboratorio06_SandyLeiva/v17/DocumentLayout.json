@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|c:\\users\\usuario\\source\\repos\\laboratorio06_sandyleiva\\laboratorio06_sandyleiva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|solutionrelative:laboratorio06_sandyleiva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|c:\\users\\usuario\\source\\repos\\laboratorio06_sandyleiva\\laboratorio06_sandyleiva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|solutionrelative:laboratorio06_sandyleiva\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\laboratorio06_sandyleiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|solutionrelative:laboratorio06_sandyleiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\laboratorio06_sandyleiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E435950-AC20-4C4D-8911-08335447165B}|Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva.csproj|solutionrelative:laboratorio06_sandyleiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio06_SandyLeiva\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form1.cs",
+              "RelativeToolTip": "Laboratorio06_SandyLeiva\\Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwHIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:36:58.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form2.cs",
+              "RelativeDocumentMoniker": "Laboratorio06_SandyLeiva\\Form2.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form2.cs",
+              "RelativeToolTip": "Laboratorio06_SandyLeiva\\Form2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:40:59.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form2.cs",
+              "RelativeDocumentMoniker": "Laboratorio06_SandyLeiva\\Form2.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio06_SandyLeiva\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:39:59.944Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio06_SandyLeiva\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Laboratorio06_SandyLeiva\\Laboratorio06_SandyLeiva\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio06_SandyLeiva\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:22:26.537Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

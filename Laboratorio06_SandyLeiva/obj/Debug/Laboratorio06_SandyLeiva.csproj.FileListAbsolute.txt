@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\bin\Debug\Laboratorio06_SandyLeiva.exe.config
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\bin\Debug\Laboratorio06_SandyLeiva.exe
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\bin\Debug\Laboratorio06_SandyLeiva.pdb
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.Form1.resources
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.Form2.resources
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.exe
+C:\Users\USUARIO\source\repos\Laboratorio06_SandyLeiva\Laboratorio06_SandyLeiva\obj\Debug\Laboratorio06_SandyLeiva.pdb
